@@ -1,0 +1,22 @@
+*********Meeting II*************
+1) Picture dataSet Use(6GB)
+2) Use Pictures to extract Popoular menu item in a restaurant as well as restautrant having good ambiannce .
+3) Classify food in different categories--basic  categories
+4.) Future Expecations: Relation of One restaratnt with Other restaurants ambience and product popularity nearby.
+5.)10 below ice cream- nearby restaurant famous food nearby
+6.) Reviews Semantic Analysis:
+Great 
+Good
+Ok
+Fine
+Bad 
+Frustrating
+Not Fun 
+Fun
+
+7.) Popular items' photo from different places that can be chosen by user.
+    Then generate the most probable place the user want to go.
+8.) Image id location--nearby restaurant
+
+9.) First round information processing based on popular items in a certain range based on location parameter, 
+    and then based on photo selection, do the second round data processing to generate another selection of popular items.
